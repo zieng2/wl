@@ -22,7 +22,7 @@
 
 В списке ниже указаны приложения, которые я смог попробовать лично и остался доволен результатом. Но это, конечно, не значит, что вам нужно использовать только их. Рассматривайте их как отправную точку, особенно если раньше никогда не работали с подписками. Список будет дополняться.
 
-**iOS**: [**Shadowrocket**](https://apps.apple.com/ru/app/shadowrocket/id932747118), [**Streisand**](https://apps.apple.com/ru/app/streisand/id6450534064), [**Karing**](https://apps.apple.com/ru/app/karing/id6472431552). Не рекомендую использовать Happ из-за нестабильной работы пинга на iOS.
+**iOS**: [**Shadowrocket**](https://apps.apple.com/ru/app/shadowrocket/id932747118), [**Streisand**](https://apps.apple.com/ru/app/streisand/id6450534064), [**Karing**](https://apps.apple.com/ru/app/karing/id6472431552). Не рекомендую использовать Happ из-за нестабильной работы пинга.
 
 **Android**: [**Exclave**](https://github.com/dyhkwong/Exclave), [**v2rayNG**](https://github.com/2dust/v2rayNG), [**NekoBox**](https://github.com/MatsuriDayo/NekoBoxForAndroid)
 
