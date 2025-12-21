@@ -28,7 +28,7 @@
 
 **Windows**: [**Throne**](https://github.com/throneproj/Throne)
 
-**MacOS**: [**Throne**](https://github.com/throneproj/Throne), [**Karing**](https://github.com/KaringX/karing)
+**MacOS**: [**Shadowrocket**](https://apps.apple.com/ru/app/shadowrocket/id932747118), [**Throne**](https://github.com/throneproj/Throne), [**Karing**](https://github.com/KaringX/karing)
 
 ## Как пользоваться?
 
