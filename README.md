@@ -68,4 +68,4 @@ Telegram-бот для связи: https://t.me/zieng2bot
 
 CloudTips (от 49р): https://pay.cloudtips.ru/p/062d3f2a
 
-ЮMoney (от 2р): https://yoomoney.ru/to/4100118299912330
+ЮMoney (от 1р): https://yoomoney.ru/to/4100118299912330
