@@ -65,4 +65,4 @@ Telegram-бот для связи: https://t.me/zieng2bot
 
 Проект полностью некоммерческий. Поддержать меня можно через сервис пожертвований от Тинькофф.
 
-CloudTips: https://pay.cloudtips.ru/p/d2aa89ad
+CloudTips: временно недоступно
