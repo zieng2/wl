@@ -31,7 +31,7 @@
 
 **iOS**: [**Shadowrocket**](https://apps.apple.com/ru/app/shadowrocket/id932747118), [**Karing**](https://apps.apple.com/ru/app/karing/id6472431552)
 
-**Android**: [**Exclave**](https://github.com/dyhkwong/Exclave), [**v2rayNG**](https://github.com/2dust/v2rayNG), [**Karing**](https://github.com/KaringX/karing), [**NekoBox**](https://github.com/MatsuriDayo/NekoBoxForAndroid)
+**Android**: [**Exclave**](https://github.com/dyhkwong/Exclave), [**v2rayNG**](https://github.com/2dust/v2rayNG), [**Karing**](https://github.com/KaringX/karing)
 
 **Windows**: [**Throne**](https://github.com/throneproj/Throne), [**v2rayN**](https://github.com/2dust/v2rayN)
 
